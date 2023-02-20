@@ -23,6 +23,9 @@ Quando o usuário digita 0, o laço é interrompido e o programa exibe a mensage
 Por fim, o método close() é chamado na variável ler(scanner) para liberar os recursos utilizados pelo objeto.
 
 
+
+
+
 EstruturaDeRepeticao02:  
 
 Uma outra forma de programa em Java que solicita ao usuário para digitar um número e só finaliza quando o usuário digitar 0:
