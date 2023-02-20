@@ -4,6 +4,8 @@ Exemplo de programa em Java que solicita ao usuário que digite um número e só
 
 Explicando o código:
 
+EstruturaDeRepeticao01:  
+
 Primeiro, importamos a classe Scanner, que permite ler a entrada do usuário a partir do console.
 
 Em seguida, declaramos duas variáveis: scanner, do tipo ler, que será utilizada para ler a entrada do usuário, e numero, do tipo int,
