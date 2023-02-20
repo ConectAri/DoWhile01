@@ -34,3 +34,24 @@ Nesta versão, é utilizado um laço while com a condição de parada baseada no
 Além disso, é inicializado o valor da variável numero como 1, garantindo que o laço seja executado pelo menos uma vez.
 
 Ao final, o programa exibe a mensagem "Programa finalizado." e fecha o objeto Scanner.
+
+==============================================================================================================================================
+
+EstruturaDeRepeticao03:
+
+
+Código em Java que pede ao usuário para digitar um número e só finaliza quando o usuário digitar 0. Ao final, o programa imprime a soma de todos os números digitados:
+
+Explicação do código:
+
+Primeiro, importamos a classe Scanner do pacote java.util. Essa classe nos permite ler a entrada do usuário a partir do teclado.
+
+Criamos um objeto Scanner chamado ler e inicializamos duas variáveis inteiras: numero (inicializado com -1) e soma (inicializado com 0).
+
+Em seguida, utilizamos um loop while que só irá parar quando o usuário digitar 0. Dentro do loop, exibimos uma mensagem pedindo para o usuário digitar um número e lemos a entrada do usuário utilizando o método nextInt() do objeto ler.
+
+Em seguida, somamos o número digitado à variável soma.
+
+Ao final do loop, exibimos a mensagem com a soma de todos os números digitados utilizando o método println() do objeto System.out.
+
+java
